@@ -1,0 +1,16 @@
+{
+  "name": "skocko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "skocko.js",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node skocko.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
